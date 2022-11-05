@@ -126,5 +126,80 @@
 │                                                                                                                 │
 │ > 6<=4                                                                                                          │
 │ False                                                                                                           │
-╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯ 
+│                                                                                                                 │
+│  • In Advanced mode [examples]                                                                                  │
+│                                                                                                                 │
+│ >> 24ar.rect3                                                                                                   │
+│ 72.0                                                                                                            │
+│                                                                                                                 │
+│ >> 4ar.sq                                                                                                       │
+│ 16.0                                                                                                            │
+│                                                                                                                 │
+│ >> 3ar.tri4                                                                                                     │
+│ 6.0                                                                                                             │
+│                                                                                                                 │
+│ >> ln3                                                                                                          │
+│ 1.0986122886681098                                                                                              │
+│                                                                                                                 │
+│ >> 2log10                                                                                                       │
+│ 0.30102999566398114                                                                                             │
+│                                                                                                                 │
+│ >> pi add 3 (or π + 3)                                                                                          │
+│ 6.141592653589793                                                                                               │
+│                                                                                                                 │
+│ >> pi add (or π add)                                                                                            │
+│ 3.141592653589793                                                                                               │
+│                                                                                                                 │
+│ >> 5%                                                                                                           │
+│ 0.05                                                                                                            │
+│                                                                                                                 │
+│ >> 5%6                                                                                                          │
+│ 83.33333333333333                                                                                               │
+│                                                                                                                 │
+│ >> 7!                                                                                                           │
+│ 5040                                                                                                            │
+│                                                                                                                 │
+│  • Advanced mode [syntaxes]                                                                                     │
+│  • Area                                                                                                         │
+│                                                                                                                 │
+│ ■ Area of rectangle : <a>ar.rect<b>'                                                                            │
+│                                                                                                                 │
+│ ■ Area of square : '<a>ar.sq'                                                                                   │
+│                                                                                                                 │
+│ ■ Area of Triangle [when height and base are given] : '<h>ar.tri<b>'                                            │
+│                                                                                                                 │
+│ ■ Area of circle : '<r>ar.cir'                                                                                  │
+│                                                                                                                 │
+│  • Perimeter                                                                                                    │
+│                                                                                                                 │
+│ ■ Perimeter of a rectangle : '<l>per.rect<w>'                                                                   │
+│                                                                                                                 │
+│ ■ Perimeter of square : '<a>per.sq'                                                                             │
+│                                                                                                                 │
+│ ■ Circumference of circle : '<r>cic.cir'                                                                        │
+│                                                                                                                 │
+│  • Log                                                                                                          │
+│                                                                                                                 │
+│ ■ Logarithm [value of log '<a>' to the base '<b>']: '<a>log<b>'                                                 │
+│                                                                                                                 │
+│ ■ Natural Logarithm : 'ln<a>'                                                                                   │
+│                                                                                                                 │
+│  • Percentage                                                                                                   │
+│                                                                                                                 │
+│ ■ '<part>'%'<whole>'                                                                                            │
+│                                                                                                                 │
+│  • Factorial ('!')                                                                                              │
+│                                                                                                                 │
+│ ■ '<x>'!                                                                                                        │
+│                                                                                                                 │
+│  • Operations using 'pi' ('π')                                                                                  │
+│                                                                                                                 │
+│ ■ pi (or π) add (or +) '<a>'                                                                                    │
+│                                                                                                                 │
+│ ■ pi (or π) div (or /) '<a>'                                                                                    │
+│                                                                                                                 │
+│ ■ pi (or π) mul ( or *) '<a>'                                                                                   │
+│                                                                                                                 │
+│ ■ pi (or π) sub (or -) '<a>'                                                                                    │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
