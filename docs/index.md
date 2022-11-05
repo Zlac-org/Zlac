@@ -62,3 +62,17 @@
 │ [ZLAC] [15:46:29] [ADVANCED MODE] [ANSWER] 20.0                                                                 │
 ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
+```
+╭─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                 │
+│  • Download                                                                                                     │
+│                                                                                                                 │
+│ You can download binary releases from above or from Github releases For source download the 'tar-gz' file from  │
+│ releases and unzip or alternatively clone this repository using Git .                                           │
+│                                                                                                                 │
+│  • Dependencies                                                                                                 │
+│                                                                                                                 │
+│ When building from source make sure to install all dependencies using 'pip install -r requirements.txt' .       │
+│ Layout made with rich and intro video played using python-vlc .                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+```
