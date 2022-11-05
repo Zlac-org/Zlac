@@ -8,7 +8,7 @@
 ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 
 ```
-[![Install-zlac](https://img.shields.io/badge/Download📥-00FF00?style=for-the-badge)](https://mi-link.herokuapp.com/dl/0/Zlac.v.2022.11.05.tar.gz)
+[![Install-zlac](https://img.shields.io/badge/Download📥-00FF00?style=for-the-badge)](https://github.com/Zlac-org/Zlac/releases/download/2022.11.05/Zlac.v.2022.11.05.tar.gz)
 [![Git](https://img.shields.io/badge/Github-000000?style=for-the-badge)](https://github.com/zlac-org)
 [![Rel](https://img.shields.io/badge/Releases-800080?style=for-the-badge)](https://github.com/Zlac-org/Zlac/releases)
 
